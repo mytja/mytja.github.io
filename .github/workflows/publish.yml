@@ -13,7 +13,7 @@ jobs:
             - name: Clone submodules
               run: git submodule init && git submodule update
             - name: Build
-              run: hugo --minify
+              run: hugo --minify && mv public/index.xml public/rss.xml
             - name: Add CNAME record
               run: echo "severkar.eu" > public/CNAME
             - name: Deploy

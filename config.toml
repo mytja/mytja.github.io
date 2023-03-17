@@ -40,7 +40,7 @@ enableRobotsTXT = true
     languageName = "slovenščina 🇸🇮"
     LanguageCode = "sl-SI"
     contentDir = "content.sl"
-    [languages.pt.params]
+    [languages.sl.params]
       blogPath = "/sl/blog" # Path to your blog section (used by RSS)
       madeWith = "Ustvarjeno z [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
