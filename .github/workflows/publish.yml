@@ -6,16 +6,16 @@ jobs:
         steps:
             - name: Git checkout
               uses: actions/checkout@v2
-      - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-            hugo-version: "latest"
-      - name: Build
-        run: hugo --minify
-      - name: Add CNAME record
-        run: echo "severkar.eu" > public/CNAME
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            publish_dir: ./public
+            - name: Setup hugo
+              uses: peaceiris/actions-hugo@v2
+              with:
+                  hugo-version: "latest"
+            - name: Build
+              run: hugo --minify
+            - name: Add CNAME record
+              run: echo "severkar.eu" > public/CNAME
+            - name: Deploy
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./public
