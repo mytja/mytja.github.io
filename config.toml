@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://severkar.eu"
 theme = "hugo-bearcub"
 copyright = "Mitja Ševerkar (CC BY 4.0)"
 defaultContentLanguage = "en"
