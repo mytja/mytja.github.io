@@ -41,6 +41,6 @@ I'm planning to publish some interesting things here, so stay tuned.
 - [E-mail](mailto:mytja@protonmail.com) or [mitja@severkar.eu](mailto:mitja@severkar.eu)
 
 # PGP
-[Public key](/static/mitja%40severkar.pub)
+[Public key - mitja@severkar.eu](/mitja%40severkar.txt)
 
 Made with 💟 by [Mitja Ševerkar](https://severkar.eu).

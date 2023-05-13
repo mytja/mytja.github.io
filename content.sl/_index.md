@@ -43,6 +43,6 @@ Blog bo večino časa napisan v angleščini, razen kadar se dotika nečesa, kar
 - [E-mail](mailto:mytja@protonmail.com) ali [mitja@severkar.eu](mailto:mitja@severkar.eu)
 
 # PGP
-[Javni ključ - mitja@severkar.eu](/static/mitja%40severkar.pub)
+[Javni ključ - mitja@severkar.eu](/mitja%40severkar.txt)
 
 Naredil z 💟 [Mitja Ševerkar](https://severkar.eu).
