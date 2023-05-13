@@ -38,6 +38,9 @@ I'm planning to publish some interesting things here, so stay tuned.
 - [GitHub](https://github.com/mytja)
 - Discord: mytja#4761
 - [Twitter](https://twitter.com/mytjadev) - largely unused.
-- [E-mail](mailto:mytja@protonmail.com)
+- [E-mail](mailto:mytja@protonmail.com) or [mitja@severkar.eu](mailto:mitja@severkar.eu)
+
+# PGP
+[Public key](/static/mitja%40severkar.pub)
 
 Made with 💟 by [Mitja Ševerkar](https://severkar.eu).

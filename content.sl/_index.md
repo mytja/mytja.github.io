@@ -39,7 +39,10 @@ Blog bo večino časa napisan v angleščini, razen kadar se dotika nečesa, kar
 # Vizitka
 - [GitHub](https://github.com/mytja)
 - Discord: mytja#4761
-- [Twitter](https://twitter.com/mytjadev) - večinsko neuporabljen.
-- [E-mail](mailto:mytja@protonmail.com)
+- [Twitter](https://twitter.com/mytjadev) - pretežno neuporabljen.
+- [E-mail](mailto:mytja@protonmail.com) ali [mitja@severkar.eu](mailto:mitja@severkar.eu)
+
+# PGP
+[Javni ključ - mitja@severkar.eu](/static/mitja%40severkar.pub)
 
 Naredil z 💟 [Mitja Ševerkar](https://severkar.eu).
