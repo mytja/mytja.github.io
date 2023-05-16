@@ -12,6 +12,9 @@ Posušal bom obljavljati čim več zanimivih stvari, zato priporočam, da redno 
 
 Blog bo večino časa napisan v angleščini, razen kadar se dotika nečesa, kar bi razumeli samo Slovenci (ranti o raznih težavah, ki se pojavljajo vsakodnevno v mojem življenju).
 
+# Zgodovina strežnika
+- **16. 5. 2023** - [Večina Ljubljane je ostala brez elektrike](https://www.24ur.com/novice/crna-kronika/vecji-izpad-elektrike-vozilo-trcilo-v-transformatorsko-postajo-na-zalah.html), posledično ni deloval router, kot tudi strežnik. Na strežniku se večina storitev nazaj ob zagonu postavi samih, pa vendar moram ročno zagnati nekaj bolj pomembnih (e-pošta, BežiApp). Te storitve bom obudil danes čez dan, vse ostale storitve (BežiSMP, palcka.si, Oblak ipd.) pa bodo obujene v naslednjih nekaj dneh.
+
 # Nekaj mojih projektov
 - [MeetPlan](https://meetplan.si)
 - [BežiApp](https://beziapp.si)
