@@ -49,13 +49,13 @@ enableRobotsTXT = true
   description = "Yet another blog."
 
   # The path to your favicon
-  favicon = "images/favicon.png"
+  #favicon = "images/favicon.png"
 
   # These images will show up when services want to generate a preview of a link
   # to your site. Ignored if `generateSocialCard = true`. For more information
   # about previews, see https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph
-  images = ["/hugo-bearcub/images/share.webp"]
+  #images = ["/hugo-bearcub/images/share.webp"]
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
