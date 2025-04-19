@@ -74,4 +74,4 @@ enableRobotsTXT = true
   # for posts that don't have `images` defined in their front matter; By setting
   # `generateSocialCard` to false, you can prevent this behavior. For more
   # information see layouts/partials/seo_tags.html
-  generateSocialCard = true
+  generateSocialCard = false
