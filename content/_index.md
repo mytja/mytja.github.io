@@ -11,8 +11,12 @@ I'm Mitja and I'm a student at [Gimnazija Bežigrad](https://gimb.org). This is 
 I'm planning to publish some interesting things here, so stay tuned.
 
 # Some of my projects
-- [MeetPlan](https://meetplan.si)
-- [BežiApp](https://beziapp.si)
+- [MeetPlan](https://meetplan.si) (maybe will stop being dead someday)
+- [BežiApp](https://beziapp.si) (unfortunately a dead project)
+- [GIMB official School Clothing Exchange website](https://izmenjevalnica.gimb.org)
+- [Tarok Palčka](https://palcka.si)
+- [Evolution X GSI](https://github.com/mytja/treble_evo)
+- [Pinpointer](https://github.com/mytja/pinpointer) (rarely updated – like this website, but it works for me)
 
 # Languages
 - [Python](https://www.python.org/)
@@ -22,6 +26,8 @@ I'm planning to publish some interesting things here, so stay tuned.
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) and [TypeScript](https://www.typescriptlang.org/)
 
 # Tools and skills
+- Android development
+- [Svelte](https://svelte.dev)
 - [JetBrains IDEs](https://www.jetbrains.com/)
 - Linux server management
 - Docker
