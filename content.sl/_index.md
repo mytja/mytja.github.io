@@ -12,6 +12,11 @@ Posušal bom obljavljati čim več zanimivih stvari, zato priporočam, da redno 
 
 Blog bo večino časa napisan v angleščini, razen kadar se dotika nečesa, kar bi razumeli samo Slovenci (ranti o raznih težavah, ki se pojavljajo vsakodnevno v mojem življenju).
 
+# Zgodovina strežnika
+- **22. 7. 2023** - V naslednjih nekaj dneh lahko pride do motenj pri dostopu do storitev zaradi menjave internetnega ponudnika (Telemach -> A1)
+- **15. 7. 2023** - Strežnik sem nadgradil s 4TB trdim diskom, kateri mi omogoča dodatne varnostne kopije
+- **16. 5. 2023** - [Večina Ljubljane je ostala brez elektrike](https://www.24ur.com/novice/crna-kronika/vecji-izpad-elektrike-vozilo-trcilo-v-transformatorsko-postajo-na-zalah.html), posledično ni deloval router, kot tudi strežnik. Na strežniku se večina storitev nazaj ob zagonu postavi samih, pa vendar moram ročno zagnati nekaj bolj pomembnih (e-pošta, BežiApp). Te storitve bom obudil danes čez dan, vse ostale storitve (BežiSMP, palcka.si, Oblak ipd.) pa bodo obujene v naslednjih nekaj dneh.
+
 # Nekaj mojih projektov
 - [MeetPlan](https://meetplan.si)
 - [BežiApp](https://beziapp.si)
@@ -39,7 +44,10 @@ Blog bo večino časa napisan v angleščini, razen kadar se dotika nečesa, kar
 # Vizitka
 - [GitHub](https://github.com/mytja)
 - Discord: mytja#4761
-- [Twitter](https://twitter.com/mytjadev) - večinsko neuporabljen.
-- [E-mail](mailto:mytja@protonmail.com)
+- [Twitter](https://twitter.com/mytjadev) - pretežno neuporabljen.
+- [E-mail](mailto:mytja@protonmail.com) ali [mitja@severkar.eu](mailto:mitja@severkar.eu)
+
+# PGP
+[Javni ključ - mitja@severkar.eu](/mitja%40severkar.txt)
 
 Naredil z 💟 [Mitja Ševerkar](https://severkar.eu).
